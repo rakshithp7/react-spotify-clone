@@ -2,7 +2,7 @@
   flex: 0.9;
   height: 100vh;
   color: white;
-  padding: 30px;
+  padding: 0px 30px;
   overflow-y: overlay;
   background: linear-gradient(rgb(91, 87, 115), rgba(0, 0, 0, 1));
 }
@@ -37,7 +37,8 @@
 }
 
 .body__songs {
-  margin: 20px -30px;
+  margin: 0px -30px;
+  margin-top: 20px;
   background: linear-gradient(rgb(28, 27, 36, 0.5), rgba(0, 0, 0, 1));
 }
 

@@ -4,7 +4,7 @@ export const initialState = {
   playing: false,
   item: null,
   token: null,
-  discover_weekly: null,
+  global_top: null,
 };
 
 function reducer(state, action) {
@@ -24,10 +24,10 @@ function reducer(state, action) {
         ...state,
         playlists: action.playlists,
       };
-    case "SET_DISCOVER_WEEKLY":
+    case "SET_GLOBAL_TOP":
       return {
         ...state,
-        discover_weekly: action.discover_weekly,
+        global_top: action.global_top,
       };
     case "SET_ITEM":
       return {
