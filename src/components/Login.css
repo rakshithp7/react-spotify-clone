@@ -6,7 +6,11 @@
 }
 
 .login > img {
+  position: absolute;
+  top: 100px;
   width: 100%;
+  height: 200px;
+  object-fit: contain;
 }
 
 .login > a {
