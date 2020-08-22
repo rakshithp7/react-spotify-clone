@@ -77,7 +77,7 @@ const Footer = ({ spotify }) => {
       <div className="footer__left">
         <img
           className="footer__albumLogo"
-          src={item?.album.images[0].urls}
+          src={item?.album.images[0].url}
           alt=""
         />
         {item ? (
