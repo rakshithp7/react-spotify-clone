@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-spotify-clone/static/css/main.c631b1e4.chunk.css",
-    "main.js": "/react-spotify-clone/static/js/main.fc77acca.chunk.js",
-    "main.js.map": "/react-spotify-clone/static/js/main.fc77acca.chunk.js.map",
+    "main.js": "/react-spotify-clone/static/js/main.c9b22259.chunk.js",
+    "main.js.map": "/react-spotify-clone/static/js/main.c9b22259.chunk.js.map",
     "runtime-main.js": "/react-spotify-clone/static/js/runtime-main.aff0cd99.js",
     "runtime-main.js.map": "/react-spotify-clone/static/js/runtime-main.aff0cd99.js.map",
     "static/js/2.17e22710.chunk.js": "/react-spotify-clone/static/js/2.17e22710.chunk.js",
     "static/js/2.17e22710.chunk.js.map": "/react-spotify-clone/static/js/2.17e22710.chunk.js.map",
     "index.html": "/react-spotify-clone/index.html",
-    "precache-manifest.4dd650611402f6f1265a919d8f34f50b.js": "/react-spotify-clone/precache-manifest.4dd650611402f6f1265a919d8f34f50b.js",
+    "precache-manifest.59e4847b6603e7f1b0fba44fcd8145e2.js": "/react-spotify-clone/precache-manifest.59e4847b6603e7f1b0fba44fcd8145e2.js",
     "service-worker.js": "/react-spotify-clone/service-worker.js",
     "static/css/main.c631b1e4.chunk.css.map": "/react-spotify-clone/static/css/main.c631b1e4.chunk.css.map",
     "static/js/2.17e22710.chunk.js.LICENSE.txt": "/react-spotify-clone/static/js/2.17e22710.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aff0cd99.js",
     "static/js/2.17e22710.chunk.js",
     "static/css/main.c631b1e4.chunk.css",
-    "static/js/main.fc77acca.chunk.js"
+    "static/js/main.c9b22259.chunk.js"
   ]
 }
