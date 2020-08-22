@@ -36,10 +36,21 @@ function App() {
           playlists: playlists,
         });
       });
+
+      spotify.getPlaylist("37i9dQZEVXcJWSQE72aVEI").then((res) => {
+        dispatch({
+          type: "SET_DISCOVER_WEEKLY",
+          discover_weekly: res,
+        });
+      });
     }
   }, []); // eslint-disable-line
 
-  return <div className="app">{token ? <Player /> : <Login />}</div>;
+  return (
+    <div className="app">
+      {token ? <Player spotify={spotify} /> : <Login />}
+    </div>
+  );
 }
 
 export default App;
