@@ -82,7 +82,7 @@ const Body = ({ spotify }) => {
 
         {/* List of songs */}
         {global_top?.tracks.items.map((item) => (
-          <SongRow playSong={playSong} track={item.track} />
+          <SongRow key={item.track.id} playSong={playSong} track={item.track} />
         ))}
       </div>
     </div>
