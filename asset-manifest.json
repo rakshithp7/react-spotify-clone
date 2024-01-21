@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-spotify-clone/static/css/main.89347eca.css",
-    "main.js": "/react-spotify-clone/static/js/main.1842bb08.js",
+    "main.css": "/react-spotify-clone/static/css/main.2b265c9f.chunk.css",
+    "main.js": "/react-spotify-clone/static/js/main.75a9f6ef.chunk.js",
+    "main.js.map": "/react-spotify-clone/static/js/main.75a9f6ef.chunk.js.map",
+    "runtime~main.js": "/react-spotify-clone/static/js/runtime~main.888ac673.js",
+    "runtime~main.js.map": "/react-spotify-clone/static/js/runtime~main.888ac673.js.map",
+    "static/js/2.29c78b34.chunk.js": "/react-spotify-clone/static/js/2.29c78b34.chunk.js",
+    "static/js/2.29c78b34.chunk.js.map": "/react-spotify-clone/static/js/2.29c78b34.chunk.js.map",
     "index.html": "/react-spotify-clone/index.html",
-    "main.89347eca.css.map": "/react-spotify-clone/static/css/main.89347eca.css.map",
-    "main.1842bb08.js.map": "/react-spotify-clone/static/js/main.1842bb08.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.89347eca.css",
-    "static/js/main.1842bb08.js"
-  ]
+    "precache-manifest.b005d746247c70119d9bc327e6b5848a.js": "/react-spotify-clone/precache-manifest.b005d746247c70119d9bc327e6b5848a.js",
+    "service-worker.js": "/react-spotify-clone/service-worker.js",
+    "static/css/main.2b265c9f.chunk.css.map": "/react-spotify-clone/static/css/main.2b265c9f.chunk.css.map"
+  }
 }
